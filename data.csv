@@ -1,0 +1,16 @@
+order_id,customer_name,category,quantity,sales,discount,region
+1,John Doe,Electronics,2,500,0.1,North
+2,Jane Smith,Furniture,1,300,0.05,South
+3,Bob Johnson,Clothing,5,200,0.2,East
+4,Alice Brown,Electronics,3,750,,West
+5,Charlie White,Furniture,2,450,0.15,North
+6,David Green,Clothing,4,180,0.1,South
+7,Eva Black,Electronics,1,250,0.05,East
+8,Frank Blue,Furniture,2,500,,West
+9,Grace Pink,Clothing,3,150,0.2,North
+10,Hank Gray,Electronics,2,600,0.1,South
+11,Ivy Gold,Furniture,1,350,0.05,East
+12,Jack Silver,Clothing,6,220,0.25,West
+13,Kate Cyan,Electronics,3,800,0.1,North
+14,Liam Lime,Furniture,2,400,,South
+15,Mia Coral,Clothing,4,210,0.15,East
